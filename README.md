@@ -1,3 +1,3 @@
-# Simple project demonstrating state management using Redux Toolkit and React Redux
+# Redux Toolkit - Simple Example
 
-- React TS project using react-redux and @reduxjs/toolkit for state management
+- Simple project demonstrating state management using Redux Toolkit and React Redux
